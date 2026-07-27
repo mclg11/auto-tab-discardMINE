@@ -22,7 +22,8 @@
     "contextMenus",
     "notifications",
     "alarms",
-    "scripting"
+    "scripting",
+    "tabs"
   ],
   "host_permissions": [
     "*://*/*"
